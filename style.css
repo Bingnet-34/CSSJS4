@@ -1,0 +1,126 @@
+body{
+  
+  background-color:orange;
+  Color:white;
+  min-height:100vh;
+  margin:0
+  padding:
+  display: value;
+  
+  
+  
+  font-family: 'Roboto', sans-serif;
+  
+  
+  
+  
+}
+#d1, #d2, #d3, #d4{
+  Background-color:orange;
+  border-radius: 5px;
+  display:none;
+}
+button{
+  background-size:100%;
+  Height:50px;
+  border: 2px solid silver;
+    
+  border-radius: 20px;
+  
+  
+  
+}
+#listView{
+  Background-color:black ;
+  color:white;
+  display:flex;
+  justify-content:center;
+  border: 1px solid red;
+  
+  
+  
+}
+#listView a{
+  text-decoration:none;
+  display:flex;
+  margin-bottom:20px;
+  
+
+}
+.side-menu {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  top: 0;
+  right:0;
+  background-color:rgba(0,0,0,5);
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.side-menu a {
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+}
+
+.side-menu a:hover {
+  background-color: orange;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 30px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.open-btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 30px;
+  color: black;
+  cursor: pointer;
+  
+
+
+}
+.open-btn:hover {
+  color: red;
+}
+#m1{
+  justify-content:center;
+  margin-top:10px;
+  
+  
+  
+  
+}
+#m2{
+  border-radius: 14px;
+
+}
+#sor{
+  border-radius: 14px;
+}
+
+/* هذا هو الكود CSS لجعل الصورة دائرية */
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.d33{
+  float: right;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%; 
+}
